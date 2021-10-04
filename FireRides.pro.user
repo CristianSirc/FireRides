@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.2, 2021-10-04T15:05:39. -->
+<!-- Written by QtCreator 4.11.2, 2021-10-04T16:40:33. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -287,8 +287,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/u/2019-1/INFORMÁTICA II/ProyectoFinal/FireRides/proyecto-final/FireRides.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/u/2019-1/INFORMÁTICA II/ProyectoFinal/FireRides/proyecto-final/FireRides.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">FireRides2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/crist/OneDrive/Escritorio/LEARN/Github/Firerides-game/proyecto-final/FireRides.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/crist/OneDrive/Escritorio/LEARN/Github/Firerides-game/proyecto-final/FireRides.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
