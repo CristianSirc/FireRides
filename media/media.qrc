@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>explosion.png</file>
+        <file>fireball.png</file>
+        <file>office-block.png</file>
+        <file>ball7.png</file>
+        <file>ring-light.png</file>
+        <file>symbol.png</file>
+        <file>ball.png</file>
+        <file>fondo4.jpg</file>
+        <file>paisaje.jpg</file>
+        <file>1.JPG</file>
+        <file>black.png</file>
+        <file>paisaje2.jpg</file>
+        <file>paisajemon.JPG</file>
+        <file>paisaje33.JPG</file>
+        <file>menu0.JPG</file>
+        <file>portal.png</file>
+        <file>2.png</file>
+        <file>cueva1.JPG</file>
+        <file>cueva3.JPG</file>
+        <file>desierto.JPG</file>
+        <file>monte1.JPG</file>
+        <file>portal_black.png</file>
+        <file>quiebra1.png</file>
+    </qresource>
+</RCC>
